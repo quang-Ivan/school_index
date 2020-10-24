@@ -4,5 +4,6 @@
 - [biology](https://quang-ivan.github.io/biology/)
 - [physics](https://quang-ivan.github.io/physics/)
 - [math](https://quang-ivan.github.io/math/)
+- [chemistry](https://quang-ivan.github.io/chemistry/)
 
 > 此页面还在建设中！(✿◡‿◡)
